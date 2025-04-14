@@ -1,0 +1,38 @@
+{
+  "basic_engine": {
+    "MAP": 0.8,
+    "MRR": 0.8,
+    "Precision@5": 0.2,
+    "NDCG@5": 0.8,
+    "Precision@10": 0.11444444444444443,
+    "NDCG@10": 0.8
+  },
+  "enhanced_engine": {
+    "MAP": 0.7,
+    "MRR": 0.7,
+    "Precision@5": 0.2,
+    "NDCG@5": 0.7261859507142915,
+    "Precision@10": 0.11444444444444443,
+    "NDCG@10": 0.7261859507142915
+  },
+  "queries": [
+    "vegetarian pad thai",
+    "gluten-free pancakes",
+    "butter-free chocolate chip cookies",
+    "eggless carbonara",
+    "vegan mac and cheese",
+    "dairy-free alfredo sauce",
+    "nut-free pesto",
+    "sugar-free brownies",
+    "low-carb lasagna",
+    "egg substitute in banana bread"
+  ],
+  "improvement": {
+    "MAP": -0.10000000000000009,
+    "MRR": -0.10000000000000009,
+    "Precision@5": 0.0,
+    "NDCG@5": -0.07381404928570856,
+    "Precision@10": 0.0,
+    "NDCG@10": -0.07381404928570856
+  }
+}

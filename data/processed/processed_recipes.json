@@ -1,0 +1,1506 @@
+[
+  {
+    "id": "pad_thai_original",
+    "title": "Classic Pad Thai",
+    "ingredients": [
+      "8 oz rice noodles",
+      "2 tbsp vegetable oil",
+      "2 eggs, beaten",
+      "1 lb shrimp, peeled and deveined",
+      "2 cloves garlic, minced",
+      "1 shallot, thinly sliced",
+      "1/4 cup tamarind paste",
+      "3 tbsp fish sauce",
+      "2 tbsp palm sugar",
+      "1/2 tsp red chili flakes",
+      "2 cups bean sprouts",
+      "4 green onions, sliced",
+      "1/4 cup roasted peanuts, chopped",
+      "Lime wedges for serving",
+      "Fresh cilantro for garnish"
+    ],
+    "instructions": "Soak rice noodles in warm water until softened. Heat oil in a wok and scramble eggs. Add shrimp, garlic, and shallot. Stir in noodles and sauce ingredients. Cook until noodles are tender. Toss with bean sprouts and green onions. Serve garnished with peanuts, cilantro, and lime wedges.",
+    "url": null,
+    "cuisine": "Thai",
+    "diet_labels": [],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "asian",
+      "dinner",
+      "seafood",
+      "noodles"
+    ]
+  },
+  {
+    "id": "pad_thai_vegetarian",
+    "title": "Vegetarian Pad Thai with Tofu",
+    "ingredients": [
+      "8 oz rice noodles",
+      "2 tbsp vegetable oil",
+      "14 oz firm tofu, pressed and cubed",
+      "2 eggs, beaten (optional, omit for vegan)",
+      "2 cloves garlic, minced",
+      "1 shallot, thinly sliced",
+      "1/4 cup tamarind paste",
+      "3 tbsp soy sauce",
+      "2 tbsp palm sugar or brown sugar",
+      "1/2 tsp red chili flakes",
+      "2 cups bean sprouts",
+      "4 green onions, sliced",
+      "1/4 cup roasted peanuts, chopped",
+      "Lime wedges for serving",
+      "Fresh cilantro for garnish"
+    ],
+    "instructions": "Soak rice noodles in warm water until softened. Heat oil in a wok and cook tofu until golden. If using eggs, push tofu aside and scramble eggs. Add garlic and shallot. Stir in noodles and sauce ingredients. Cook until noodles are tender. Toss with bean sprouts and green onions. Serve garnished with peanuts, cilantro, and lime wedges.",
+    "url": null,
+    "cuisine": "Thai",
+    "diet_labels": [
+      "vegetarian"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "asian",
+      "dinner",
+      "vegetarian",
+      "noodles",
+      "tofu"
+    ]
+  },
+  {
+    "id": "pancakes_original",
+    "title": "Classic Fluffy Pancakes",
+    "ingredients": [
+      "1 1/2 cups all-purpose flour",
+      "3 1/2 tsp baking powder",
+      "1 tsp salt",
+      "1 tbsp white sugar",
+      "1 1/4 cups milk",
+      "1 egg",
+      "3 tbsp butter, melted",
+      "1 tsp vanilla extract"
+    ],
+    "instructions": "In a large bowl, sift together flour, baking powder, salt, and sugar. Make a well in the center and pour in milk, egg, melted butter, and vanilla. Mix until smooth. Heat a lightly oiled griddle or frying pan over medium-high heat. Pour batter onto the griddle, using approximately 1/4 cup for each pancake. Brown on both sides and serve hot with maple syrup.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "breakfast",
+      "american",
+      "quick"
+    ]
+  },
+  {
+    "id": "pancakes_gluten_free",
+    "title": "Gluten-Free Oat Flour Pancakes",
+    "ingredients": [
+      "1 1/2 cups oat flour (certified gluten-free)",
+      "2 tsp baking powder",
+      "1/2 tsp baking soda",
+      "1 tsp salt",
+      "1 tbsp white sugar",
+      "1 1/4 cups almond milk",
+      "1 egg",
+      "3 tbsp coconut oil, melted",
+      "1 tsp vanilla extract",
+      "1/2 tsp xanthan gum (optional, for better texture)"
+    ],
+    "instructions": "In a large bowl, whisk together oat flour, baking powder, baking soda, salt, and sugar. In another bowl, beat egg and mix with almond milk, melted coconut oil, and vanilla. Add wet ingredients to dry ingredients and mix until just combined. Let batter rest for 5 minutes. Heat a lightly oiled griddle over medium heat. Pour batter onto the griddle, using approximately 1/4 cup for each pancake. Cook until bubbles form, then flip and cook until browned. Serve with maple syrup.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "gluten-free"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "breakfast",
+      "american",
+      "quick",
+      "gluten-free"
+    ]
+  },
+  {
+    "id": "dummy_pad_thai_original",
+    "title": "Classic Pad Thai",
+    "ingredients": [
+      "Basic ingredient for pad thai 1",
+      "Basic ingredient for pad thai 2",
+      "Basic ingredient for pad thai 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making classic pad thai. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "pad",
+      "thai",
+      "classic",
+      "original"
+    ]
+  },
+  {
+    "id": "dummy_pad_thai_vegetarian",
+    "title": "Vegetarian Pad Thai",
+    "ingredients": [
+      "vegetarian substitute for pad thai 1",
+      "vegetarian substitute for pad thai 2",
+      "Basic ingredient for pad thai 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making vegetarian pad thai. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "vegetarian"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "pad",
+      "thai",
+      "vegetarian",
+      "substitution"
+    ]
+  },
+  {
+    "id": "dummy_pad_thai_vegan",
+    "title": "Vegan Pad Thai",
+    "ingredients": [
+      "vegan substitute for pad thai 1",
+      "vegan substitute for pad thai 2",
+      "Basic ingredient for pad thai 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making vegan pad thai. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "vegan"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "pad",
+      "thai",
+      "vegan",
+      "substitution"
+    ]
+  },
+  {
+    "id": "dummy_pad_thai_gluten-free",
+    "title": "Gluten-Free Pad Thai",
+    "ingredients": [
+      "gluten-free substitute for pad thai 1",
+      "gluten-free substitute for pad thai 2",
+      "Basic ingredient for pad thai 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making gluten-free pad thai. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "gluten-free"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "pad",
+      "thai",
+      "gluten-free",
+      "substitution"
+    ]
+  },
+  {
+    "id": "dummy_pad_thai_dairy-free",
+    "title": "Dairy-Free Pad Thai",
+    "ingredients": [
+      "dairy-free substitute for pad thai 1",
+      "dairy-free substitute for pad thai 2",
+      "Basic ingredient for pad thai 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making dairy-free pad thai. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "dairy-free"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "pad",
+      "thai",
+      "dairy-free",
+      "substitution"
+    ]
+  },
+  {
+    "id": "dummy_pad_thai_nut-free",
+    "title": "Nut-Free Pad Thai",
+    "ingredients": [
+      "nut-free substitute for pad thai 1",
+      "nut-free substitute for pad thai 2",
+      "Basic ingredient for pad thai 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making nut-free pad thai. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "nut-free"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "pad",
+      "thai",
+      "nut-free",
+      "substitution"
+    ]
+  },
+  {
+    "id": "dummy_pancakes_original",
+    "title": "Classic Pancakes",
+    "ingredients": [
+      "Basic ingredient for pancakes 1",
+      "Basic ingredient for pancakes 2",
+      "Basic ingredient for pancakes 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making classic pancakes. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "pancakes",
+      "classic",
+      "original"
+    ]
+  },
+  {
+    "id": "dummy_pancakes_vegetarian",
+    "title": "Vegetarian Pancakes",
+    "ingredients": [
+      "vegetarian substitute for pancakes 1",
+      "vegetarian substitute for pancakes 2",
+      "Basic ingredient for pancakes 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making vegetarian pancakes. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "vegetarian"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "pancakes",
+      "vegetarian",
+      "substitution"
+    ]
+  },
+  {
+    "id": "dummy_pancakes_vegan",
+    "title": "Vegan Pancakes",
+    "ingredients": [
+      "vegan substitute for pancakes 1",
+      "vegan substitute for pancakes 2",
+      "Basic ingredient for pancakes 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making vegan pancakes. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "vegan"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "pancakes",
+      "vegan",
+      "substitution"
+    ]
+  },
+  {
+    "id": "dummy_pancakes_gluten-free",
+    "title": "Gluten-Free Pancakes",
+    "ingredients": [
+      "gluten-free substitute for pancakes 1",
+      "gluten-free substitute for pancakes 2",
+      "Basic ingredient for pancakes 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making gluten-free pancakes. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "gluten-free"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "pancakes",
+      "gluten-free",
+      "substitution"
+    ]
+  },
+  {
+    "id": "dummy_pancakes_dairy-free",
+    "title": "Dairy-Free Pancakes",
+    "ingredients": [
+      "dairy-free substitute for pancakes 1",
+      "dairy-free substitute for pancakes 2",
+      "Basic ingredient for pancakes 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making dairy-free pancakes. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "dairy-free"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "pancakes",
+      "dairy-free",
+      "substitution"
+    ]
+  },
+  {
+    "id": "dummy_pancakes_nut-free",
+    "title": "Nut-Free Pancakes",
+    "ingredients": [
+      "nut-free substitute for pancakes 1",
+      "nut-free substitute for pancakes 2",
+      "Basic ingredient for pancakes 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making nut-free pancakes. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "nut-free"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "pancakes",
+      "nut-free",
+      "substitution"
+    ]
+  },
+  {
+    "id": "dummy_chocolate_chip_cookies_original",
+    "title": "Classic Chocolate Chip Cookies",
+    "ingredients": [
+      "Basic ingredient for chocolate chip cookies 1",
+      "Basic ingredient for chocolate chip cookies 2",
+      "Basic ingredient for chocolate chip cookies 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making classic chocolate chip cookies. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "chocolate",
+      "chip",
+      "cookies",
+      "classic",
+      "original"
+    ]
+  },
+  {
+    "id": "dummy_chocolate_chip_cookies_vegetarian",
+    "title": "Vegetarian Chocolate Chip Cookies",
+    "ingredients": [
+      "vegetarian substitute for chocolate chip cookies 1",
+      "vegetarian substitute for chocolate chip cookies 2",
+      "Basic ingredient for chocolate chip cookies 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making vegetarian chocolate chip cookies. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "vegetarian"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "chocolate",
+      "chip",
+      "cookies",
+      "vegetarian",
+      "substitution"
+    ]
+  },
+  {
+    "id": "dummy_chocolate_chip_cookies_vegan",
+    "title": "Vegan Chocolate Chip Cookies",
+    "ingredients": [
+      "vegan substitute for chocolate chip cookies 1",
+      "vegan substitute for chocolate chip cookies 2",
+      "Basic ingredient for chocolate chip cookies 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making vegan chocolate chip cookies. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "vegan"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "chocolate",
+      "chip",
+      "cookies",
+      "vegan",
+      "substitution"
+    ]
+  },
+  {
+    "id": "dummy_chocolate_chip_cookies_gluten-free",
+    "title": "Gluten-Free Chocolate Chip Cookies",
+    "ingredients": [
+      "gluten-free substitute for chocolate chip cookies 1",
+      "gluten-free substitute for chocolate chip cookies 2",
+      "Basic ingredient for chocolate chip cookies 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making gluten-free chocolate chip cookies. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "gluten-free"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "chocolate",
+      "chip",
+      "cookies",
+      "gluten-free",
+      "substitution"
+    ]
+  },
+  {
+    "id": "dummy_chocolate_chip_cookies_dairy-free",
+    "title": "Dairy-Free Chocolate Chip Cookies",
+    "ingredients": [
+      "dairy-free substitute for chocolate chip cookies 1",
+      "dairy-free substitute for chocolate chip cookies 2",
+      "Basic ingredient for chocolate chip cookies 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making dairy-free chocolate chip cookies. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "dairy-free"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "chocolate",
+      "chip",
+      "cookies",
+      "dairy-free",
+      "substitution"
+    ]
+  },
+  {
+    "id": "dummy_chocolate_chip_cookies_nut-free",
+    "title": "Nut-Free Chocolate Chip Cookies",
+    "ingredients": [
+      "nut-free substitute for chocolate chip cookies 1",
+      "nut-free substitute for chocolate chip cookies 2",
+      "Basic ingredient for chocolate chip cookies 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making nut-free chocolate chip cookies. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "nut-free"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "chocolate",
+      "chip",
+      "cookies",
+      "nut-free",
+      "substitution"
+    ]
+  },
+  {
+    "id": "dummy_carbonara_original",
+    "title": "Classic Carbonara",
+    "ingredients": [
+      "Basic ingredient for carbonara 1",
+      "Basic ingredient for carbonara 2",
+      "Basic ingredient for carbonara 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making classic carbonara. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "carbonara",
+      "classic",
+      "original"
+    ]
+  },
+  {
+    "id": "dummy_carbonara_vegetarian",
+    "title": "Vegetarian Carbonara",
+    "ingredients": [
+      "vegetarian substitute for carbonara 1",
+      "vegetarian substitute for carbonara 2",
+      "Basic ingredient for carbonara 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making vegetarian carbonara. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "vegetarian"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "carbonara",
+      "vegetarian",
+      "substitution"
+    ]
+  },
+  {
+    "id": "dummy_carbonara_vegan",
+    "title": "Vegan Carbonara",
+    "ingredients": [
+      "vegan substitute for carbonara 1",
+      "vegan substitute for carbonara 2",
+      "Basic ingredient for carbonara 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making vegan carbonara. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "vegan"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "carbonara",
+      "vegan",
+      "substitution"
+    ]
+  },
+  {
+    "id": "dummy_carbonara_gluten-free",
+    "title": "Gluten-Free Carbonara",
+    "ingredients": [
+      "gluten-free substitute for carbonara 1",
+      "gluten-free substitute for carbonara 2",
+      "Basic ingredient for carbonara 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making gluten-free carbonara. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "gluten-free"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "carbonara",
+      "gluten-free",
+      "substitution"
+    ]
+  },
+  {
+    "id": "dummy_carbonara_dairy-free",
+    "title": "Dairy-Free Carbonara",
+    "ingredients": [
+      "dairy-free substitute for carbonara 1",
+      "dairy-free substitute for carbonara 2",
+      "Basic ingredient for carbonara 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making dairy-free carbonara. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "dairy-free"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "carbonara",
+      "dairy-free",
+      "substitution"
+    ]
+  },
+  {
+    "id": "dummy_carbonara_nut-free",
+    "title": "Nut-Free Carbonara",
+    "ingredients": [
+      "nut-free substitute for carbonara 1",
+      "nut-free substitute for carbonara 2",
+      "Basic ingredient for carbonara 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making nut-free carbonara. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "nut-free"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "carbonara",
+      "nut-free",
+      "substitution"
+    ]
+  },
+  {
+    "id": "dummy_mac_and_cheese_original",
+    "title": "Classic Mac And Cheese",
+    "ingredients": [
+      "Basic ingredient for mac and cheese 1",
+      "Basic ingredient for mac and cheese 2",
+      "Basic ingredient for mac and cheese 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making classic mac and cheese. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "mac",
+      "and",
+      "cheese",
+      "classic",
+      "original"
+    ]
+  },
+  {
+    "id": "dummy_mac_and_cheese_vegetarian",
+    "title": "Vegetarian Mac And Cheese",
+    "ingredients": [
+      "vegetarian substitute for mac and cheese 1",
+      "vegetarian substitute for mac and cheese 2",
+      "Basic ingredient for mac and cheese 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making vegetarian mac and cheese. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "vegetarian"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "mac",
+      "and",
+      "cheese",
+      "vegetarian",
+      "substitution"
+    ]
+  },
+  {
+    "id": "dummy_mac_and_cheese_vegan",
+    "title": "Vegan Mac And Cheese",
+    "ingredients": [
+      "vegan substitute for mac and cheese 1",
+      "vegan substitute for mac and cheese 2",
+      "Basic ingredient for mac and cheese 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making vegan mac and cheese. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "vegan"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "mac",
+      "and",
+      "cheese",
+      "vegan",
+      "substitution"
+    ]
+  },
+  {
+    "id": "dummy_mac_and_cheese_gluten-free",
+    "title": "Gluten-Free Mac And Cheese",
+    "ingredients": [
+      "gluten-free substitute for mac and cheese 1",
+      "gluten-free substitute for mac and cheese 2",
+      "Basic ingredient for mac and cheese 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making gluten-free mac and cheese. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "gluten-free"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "mac",
+      "and",
+      "cheese",
+      "gluten-free",
+      "substitution"
+    ]
+  },
+  {
+    "id": "dummy_mac_and_cheese_dairy-free",
+    "title": "Dairy-Free Mac And Cheese",
+    "ingredients": [
+      "dairy-free substitute for mac and cheese 1",
+      "dairy-free substitute for mac and cheese 2",
+      "Basic ingredient for mac and cheese 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making dairy-free mac and cheese. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "dairy-free"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "mac",
+      "and",
+      "cheese",
+      "dairy-free",
+      "substitution"
+    ]
+  },
+  {
+    "id": "dummy_mac_and_cheese_nut-free",
+    "title": "Nut-Free Mac And Cheese",
+    "ingredients": [
+      "nut-free substitute for mac and cheese 1",
+      "nut-free substitute for mac and cheese 2",
+      "Basic ingredient for mac and cheese 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making nut-free mac and cheese. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "nut-free"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "mac",
+      "and",
+      "cheese",
+      "nut-free",
+      "substitution"
+    ]
+  },
+  {
+    "id": "dummy_alfredo_sauce_original",
+    "title": "Classic Alfredo Sauce",
+    "ingredients": [
+      "Basic ingredient for alfredo sauce 1",
+      "Basic ingredient for alfredo sauce 2",
+      "Basic ingredient for alfredo sauce 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making classic alfredo sauce. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "alfredo",
+      "sauce",
+      "classic",
+      "original"
+    ]
+  },
+  {
+    "id": "dummy_alfredo_sauce_vegetarian",
+    "title": "Vegetarian Alfredo Sauce",
+    "ingredients": [
+      "vegetarian substitute for alfredo sauce 1",
+      "vegetarian substitute for alfredo sauce 2",
+      "Basic ingredient for alfredo sauce 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making vegetarian alfredo sauce. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "vegetarian"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "alfredo",
+      "sauce",
+      "vegetarian",
+      "substitution"
+    ]
+  },
+  {
+    "id": "dummy_alfredo_sauce_vegan",
+    "title": "Vegan Alfredo Sauce",
+    "ingredients": [
+      "vegan substitute for alfredo sauce 1",
+      "vegan substitute for alfredo sauce 2",
+      "Basic ingredient for alfredo sauce 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making vegan alfredo sauce. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "vegan"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "alfredo",
+      "sauce",
+      "vegan",
+      "substitution"
+    ]
+  },
+  {
+    "id": "dummy_alfredo_sauce_gluten-free",
+    "title": "Gluten-Free Alfredo Sauce",
+    "ingredients": [
+      "gluten-free substitute for alfredo sauce 1",
+      "gluten-free substitute for alfredo sauce 2",
+      "Basic ingredient for alfredo sauce 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making gluten-free alfredo sauce. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "gluten-free"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "alfredo",
+      "sauce",
+      "gluten-free",
+      "substitution"
+    ]
+  },
+  {
+    "id": "dummy_alfredo_sauce_dairy-free",
+    "title": "Dairy-Free Alfredo Sauce",
+    "ingredients": [
+      "dairy-free substitute for alfredo sauce 1",
+      "dairy-free substitute for alfredo sauce 2",
+      "Basic ingredient for alfredo sauce 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making dairy-free alfredo sauce. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "dairy-free"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "alfredo",
+      "sauce",
+      "dairy-free",
+      "substitution"
+    ]
+  },
+  {
+    "id": "dummy_alfredo_sauce_nut-free",
+    "title": "Nut-Free Alfredo Sauce",
+    "ingredients": [
+      "nut-free substitute for alfredo sauce 1",
+      "nut-free substitute for alfredo sauce 2",
+      "Basic ingredient for alfredo sauce 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making nut-free alfredo sauce. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "nut-free"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "alfredo",
+      "sauce",
+      "nut-free",
+      "substitution"
+    ]
+  },
+  {
+    "id": "dummy_pesto_original",
+    "title": "Classic Pesto",
+    "ingredients": [
+      "Basic ingredient for pesto 1",
+      "Basic ingredient for pesto 2",
+      "Basic ingredient for pesto 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making classic pesto. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "pesto",
+      "classic",
+      "original"
+    ]
+  },
+  {
+    "id": "dummy_pesto_vegetarian",
+    "title": "Vegetarian Pesto",
+    "ingredients": [
+      "vegetarian substitute for pesto 1",
+      "vegetarian substitute for pesto 2",
+      "Basic ingredient for pesto 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making vegetarian pesto. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "vegetarian"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "pesto",
+      "vegetarian",
+      "substitution"
+    ]
+  },
+  {
+    "id": "dummy_pesto_vegan",
+    "title": "Vegan Pesto",
+    "ingredients": [
+      "vegan substitute for pesto 1",
+      "vegan substitute for pesto 2",
+      "Basic ingredient for pesto 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making vegan pesto. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "vegan"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "pesto",
+      "vegan",
+      "substitution"
+    ]
+  },
+  {
+    "id": "dummy_pesto_gluten-free",
+    "title": "Gluten-Free Pesto",
+    "ingredients": [
+      "gluten-free substitute for pesto 1",
+      "gluten-free substitute for pesto 2",
+      "Basic ingredient for pesto 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making gluten-free pesto. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "gluten-free"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "pesto",
+      "gluten-free",
+      "substitution"
+    ]
+  },
+  {
+    "id": "dummy_pesto_dairy-free",
+    "title": "Dairy-Free Pesto",
+    "ingredients": [
+      "dairy-free substitute for pesto 1",
+      "dairy-free substitute for pesto 2",
+      "Basic ingredient for pesto 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making dairy-free pesto. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "dairy-free"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "pesto",
+      "dairy-free",
+      "substitution"
+    ]
+  },
+  {
+    "id": "dummy_pesto_nut-free",
+    "title": "Nut-Free Pesto",
+    "ingredients": [
+      "nut-free substitute for pesto 1",
+      "nut-free substitute for pesto 2",
+      "Basic ingredient for pesto 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making nut-free pesto. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "nut-free"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "pesto",
+      "nut-free",
+      "substitution"
+    ]
+  },
+  {
+    "id": "dummy_brownies_original",
+    "title": "Classic Brownies",
+    "ingredients": [
+      "Basic ingredient for brownies 1",
+      "Basic ingredient for brownies 2",
+      "Basic ingredient for brownies 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making classic brownies. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "brownies",
+      "classic",
+      "original"
+    ]
+  },
+  {
+    "id": "dummy_brownies_vegetarian",
+    "title": "Vegetarian Brownies",
+    "ingredients": [
+      "vegetarian substitute for brownies 1",
+      "vegetarian substitute for brownies 2",
+      "Basic ingredient for brownies 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making vegetarian brownies. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "vegetarian"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "brownies",
+      "vegetarian",
+      "substitution"
+    ]
+  },
+  {
+    "id": "dummy_brownies_vegan",
+    "title": "Vegan Brownies",
+    "ingredients": [
+      "vegan substitute for brownies 1",
+      "vegan substitute for brownies 2",
+      "Basic ingredient for brownies 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making vegan brownies. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "vegan"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "brownies",
+      "vegan",
+      "substitution"
+    ]
+  },
+  {
+    "id": "dummy_brownies_gluten-free",
+    "title": "Gluten-Free Brownies",
+    "ingredients": [
+      "gluten-free substitute for brownies 1",
+      "gluten-free substitute for brownies 2",
+      "Basic ingredient for brownies 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making gluten-free brownies. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "gluten-free"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "brownies",
+      "gluten-free",
+      "substitution"
+    ]
+  },
+  {
+    "id": "dummy_brownies_dairy-free",
+    "title": "Dairy-Free Brownies",
+    "ingredients": [
+      "dairy-free substitute for brownies 1",
+      "dairy-free substitute for brownies 2",
+      "Basic ingredient for brownies 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making dairy-free brownies. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "dairy-free"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "brownies",
+      "dairy-free",
+      "substitution"
+    ]
+  },
+  {
+    "id": "dummy_brownies_nut-free",
+    "title": "Nut-Free Brownies",
+    "ingredients": [
+      "nut-free substitute for brownies 1",
+      "nut-free substitute for brownies 2",
+      "Basic ingredient for brownies 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making nut-free brownies. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "nut-free"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "brownies",
+      "nut-free",
+      "substitution"
+    ]
+  },
+  {
+    "id": "dummy_lasagna_original",
+    "title": "Classic Lasagna",
+    "ingredients": [
+      "Basic ingredient for lasagna 1",
+      "Basic ingredient for lasagna 2",
+      "Basic ingredient for lasagna 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making classic lasagna. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "lasagna",
+      "classic",
+      "original"
+    ]
+  },
+  {
+    "id": "dummy_lasagna_vegetarian",
+    "title": "Vegetarian Lasagna",
+    "ingredients": [
+      "vegetarian substitute for lasagna 1",
+      "vegetarian substitute for lasagna 2",
+      "Basic ingredient for lasagna 3",
+      "Common ingredient 1",
+      "Common ingredient 2"
+    ],
+    "instructions": "Instructions for making vegetarian lasagna. This is a dummy recipe.",
+    "url": null,
+    "cuisine": null,
+    "diet_labels": [
+      "vegetarian"
+    ],
+    "cooking_time": null,
+    "serving_size": null,
+    "nutrition": null,
+    "image_url": null,
+    "source": null,
+    "tags": [
+      "lasagna",
+      "vegetarian",
+      "substitution"
+    ]
+  }
+]

@@ -1,0 +1,129 @@
+{
+  "vegetarian pad thai": {
+    "pad_thai_vegetarian": 2,
+    "pad_thai_original": 0,
+    "dummy_pad_thai_vegetarian": 0
+  },
+  "gluten-free pancakes": {
+    "pancakes_gluten_free": 1,
+    "pancakes_original": 0,
+    "dummy_pancakes_gluten-free": 1
+  },
+  "vegan pad thai": {
+    "dummy_pad_thai_vegan": 2
+  },
+  "gluten-free pad thai": {
+    "dummy_pad_thai_gluten-free": 2
+  },
+  "dairy-free pad thai": {
+    "dummy_pad_thai_dairy-free": 2
+  },
+  "nut-free pad thai": {
+    "dummy_pad_thai_nut-free": 2
+  },
+  "vegetarian pancakes": {
+    "dummy_pancakes_vegetarian": 0
+  },
+  "vegan pancakes": {
+    "dummy_pancakes_vegan": 2
+  },
+  "dairy-free pancakes": {
+    "dummy_pancakes_dairy-free": 2
+  },
+  "nut-free pancakes": {
+    "dummy_pancakes_nut-free": 2
+  },
+  "vegetarian chocolate chip cookies": {
+    "dummy_chocolate_chip_cookies_vegetarian": 1
+  },
+  "vegan chocolate chip cookies": {
+    "dummy_chocolate_chip_cookies_vegan": 1
+  },
+  "gluten-free chocolate chip cookies": {
+    "dummy_chocolate_chip_cookies_gluten-free": 0
+  },
+  "dairy-free chocolate chip cookies": {
+    "dummy_chocolate_chip_cookies_dairy-free": 2
+  },
+  "nut-free chocolate chip cookies": {
+    "dummy_chocolate_chip_cookies_nut-free": 0
+  },
+  "vegetarian carbonara": {
+    "dummy_carbonara_vegetarian": 2
+  },
+  "vegan carbonara": {
+    "dummy_carbonara_vegan": 1
+  },
+  "gluten-free carbonara": {
+    "dummy_carbonara_gluten-free": 1
+  },
+  "dairy-free carbonara": {
+    "dummy_carbonara_dairy-free": 1
+  },
+  "nut-free carbonara": {
+    "dummy_carbonara_nut-free": 2
+  },
+  "vegetarian mac and cheese": {
+    "dummy_mac_and_cheese_vegetarian": 1
+  },
+  "vegan mac and cheese": {
+    "dummy_mac_and_cheese_vegan": 2
+  },
+  "gluten-free mac and cheese": {
+    "dummy_mac_and_cheese_gluten-free": 2
+  },
+  "dairy-free mac and cheese": {
+    "dummy_mac_and_cheese_dairy-free": 2
+  },
+  "nut-free mac and cheese": {
+    "dummy_mac_and_cheese_nut-free": 1
+  },
+  "vegetarian alfredo sauce": {
+    "dummy_alfredo_sauce_vegetarian": 2
+  },
+  "vegan alfredo sauce": {
+    "dummy_alfredo_sauce_vegan": 0
+  },
+  "gluten-free alfredo sauce": {
+    "dummy_alfredo_sauce_gluten-free": 2
+  },
+  "dairy-free alfredo sauce": {
+    "dummy_alfredo_sauce_dairy-free": 1
+  },
+  "nut-free alfredo sauce": {
+    "dummy_alfredo_sauce_nut-free": 1
+  },
+  "vegetarian pesto": {
+    "dummy_pesto_vegetarian": 2
+  },
+  "vegan pesto": {
+    "dummy_pesto_vegan": 1
+  },
+  "gluten-free pesto": {
+    "dummy_pesto_gluten-free": 0
+  },
+  "dairy-free pesto": {
+    "dummy_pesto_dairy-free": 2
+  },
+  "nut-free pesto": {
+    "dummy_pesto_nut-free": 0
+  },
+  "vegetarian brownies": {
+    "dummy_brownies_vegetarian": 2
+  },
+  "vegan brownies": {
+    "dummy_brownies_vegan": 2
+  },
+  "gluten-free brownies": {
+    "dummy_brownies_gluten-free": 2
+  },
+  "dairy-free brownies": {
+    "dummy_brownies_dairy-free": 2
+  },
+  "nut-free brownies": {
+    "dummy_brownies_nut-free": 2
+  },
+  "vegetarian lasagna": {
+    "dummy_lasagna_vegetarian": 2
+  }
+}
